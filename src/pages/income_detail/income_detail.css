@@ -1,0 +1,49 @@
+.income-title{
+    padding-top: 2rem;
+}
+.wrap-income{
+    display: flex;
+    padding: 1rem;
+}
+.process_line{
+    width: .2rem;
+    height: 4rem;
+    background: #ffce00;
+    margin: 0 auto;
+}
+.process_dot{
+    width: .5rem;
+    height: .5rem;
+    border-radius: .5rem;
+    background: #ffce00;
+    margin: 0 auto;
+}
+.wrap_process{
+    width: .5rem;
+    margin-left: 1rem;
+    margin-top: 1.25rem;
+}
+.wrap-income-detail{
+    height: 4.4rem;
+    padding: 0;
+}
+.income-top{
+    margin-top: 1rem;
+}
+.income-detail-bg{
+    display: flex;
+    align-items: center;
+    height: 3rem;
+    padding:0 1rem;
+}
+.income-detail-title{
+    flex: 1;
+}
+.refund-male{
+    padding:0 1rem;
+}
+.refund-male>div{
+    border-top: 1px solid #000;
+    height: 1.8rem;
+    line-height: 1.8rem;
+}
